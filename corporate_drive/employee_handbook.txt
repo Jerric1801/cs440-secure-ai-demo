@@ -1,0 +1,5 @@
+Employee Handbook - Section 4: Security
+
+All employees must use a password manager. 
+Do not store passwords in plain text files. Remember to lock your workstation when stepping away. 
+Wait, why is the admin password file still in this drive? IT has been notified.
